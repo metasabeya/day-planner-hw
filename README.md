@@ -26,6 +26,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 
 THEN the saved events persist
+the challenging thing here is to put such function for the time interval(past,present,future)
+this is how it looks like.
+![dayplanner](https://user-images.githubusercontent.com/65740871/88464073-f75fcb80-ce74-11ea-987d-1aa471768c50.gif)
 
 
 
@@ -33,6 +36,7 @@ THEN the saved events persist
 
 
 https://github.com/metasabeya/day-planner-hw.git
+
 
 
 
