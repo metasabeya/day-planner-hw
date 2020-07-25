@@ -15,5 +15,10 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
+ //https://metasabeya.github.io/day-planner-hw/
+
+
 https://github.com/metasabeya/day-planner-hw.git
- https://metasabeya.github.io/day-planner-hw/
+
+
+
