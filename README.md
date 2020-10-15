@@ -1,5 +1,10 @@
 
+
+
+
+
 # Day-Planner using jquery
+An app for daily planner to create a schedule within a day and when the is opened it shows the time with different colors
 GIVEN I am using a daily planner to create a schedule
 
 
